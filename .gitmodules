@@ -25,6 +25,6 @@
 [submodule "Cores/DSDeltaCore"]
 	path = Cores/DSDeltaCore
 	url = https://github.com/rileytestut/DSDeltaCore.git
-[submodule "Cores/Mednafen-GitHub"]
-	path = Cores/Mednafen-GitHub
-	url = https://github.com/LiterallyUnknown/Mednafen-GitHub
+[submodule "Cores/MedDeltaCore"]
+	path = Cores/MedDeltaCore
+	url = https://github.com/LiterallyUnknown/MedDeltaCore
